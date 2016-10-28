@@ -1,0 +1,6 @@
+c:\users\case159\documents\visual studio 2013\Projects\SpectraLibraryParser\SpectraLibraryParser\bin\Debug\SpectraLibraryParser.exe.config
+c:\users\case159\documents\visual studio 2013\Projects\SpectraLibraryParser\SpectraLibraryParser\bin\Debug\SpectraLibraryParser.exe
+c:\users\case159\documents\visual studio 2013\Projects\SpectraLibraryParser\SpectraLibraryParser\bin\Debug\SpectraLibraryParser.pdb
+c:\users\case159\documents\visual studio 2013\Projects\SpectraLibraryParser\SpectraLibraryParser\obj\Debug\SpectraLibraryParser.csprojResolveAssemblyReference.cache
+c:\users\case159\documents\visual studio 2013\Projects\SpectraLibraryParser\SpectraLibraryParser\obj\Debug\SpectraLibraryParser.exe
+c:\users\case159\documents\visual studio 2013\Projects\SpectraLibraryParser\SpectraLibraryParser\obj\Debug\SpectraLibraryParser.pdb
